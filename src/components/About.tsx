@@ -5,18 +5,18 @@ const About = () => {
   const highlights = [
     {
       icon: Code2,
-      title: "Full-Stack Development",
-      description: "Experienced in building scalable applications with PHP, Next.js, React, and modern web technologies.",
+      title: "Software Engineering",
+      description: "Proficient in full-stack development with PHP, Next.js, React, TypeScript, and cloud technologies. Expertise in building scalable, production-ready applications.",
     },
     {
       icon: Briefcase,
       title: "Professional Experience",
-      description: "Currently developing backend systems and responsive UIs at SellStatic, serving hundreds of customers.",
+      description: "Software Engineer Intern at SellStatic, architecting backend systems, optimizing database performance, and delivering enterprise-grade solutions.",
     },
     {
       icon: GraduationCap,
       title: "Continuous Learning",
-      description: "Computer Science student at Wilfrid Laurier University, focused on AI, data science, and software engineering.",
+      description: "Computer Science student at Wilfrid Laurier University, specializing in AI, machine learning, data structures, and software design patterns.",
     },
   ];
 
@@ -29,11 +29,12 @@ const About = () => {
 
           <div className="mb-16">
             <p className="text-lg text-muted-foreground text-center max-w-3xl mx-auto leading-relaxed">
-              I'm a passionate Full-Stack Developer and Computer Science student based in Milton, Ontario. 
-              With hands-on experience in building scalable backend systems and responsive user interfaces, 
-              I specialize in creating efficient, user-focused web applications. My work combines technical 
-              expertise with a strong understanding of business needs, ensuring solutions that are both 
-              robust and impactful.
+              I'm a Software Engineer Intern and Computer Science student based in Milton, Ontario, 
+              with a proven track record of delivering scalable, high-performance web applications. 
+              I specialize in full-stack development, systems architecture, and database optimization, 
+              leveraging modern frameworks and agile methodologies to solve complex technical challenges. 
+              My approach combines strong problem-solving skills with business acumen, ensuring that 
+              every solution drives measurable impact and user satisfaction.
             </p>
           </div>
 

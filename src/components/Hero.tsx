@@ -26,7 +26,7 @@ const Hero = () => {
             Asad Malik
           </h1>
           <p className="text-xl md:text-2xl mb-4 animate-in fade-in slide-in-from-bottom-4 duration-1000 delay-150">
-            Full-Stack Developer & Computer Science Student
+            Software Engineer Intern & Computer Science Student
           </p>
           <p className="text-lg md:text-xl mb-8 opacity-90 animate-in fade-in slide-in-from-bottom-4 duration-1000 delay-300 max-w-2xl mx-auto">
             Building scalable web applications with modern technologies. Passionate about creating

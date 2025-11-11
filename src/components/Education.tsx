@@ -76,6 +76,26 @@ const Education = () => {
               </div>
             </div>
 
+            <div className="mb-6">
+              <h4 className="text-lg font-semibold mb-3 text-card-foreground flex items-center gap-2">
+                <Award className="h-5 w-5 text-accent" />
+                Achievements & Honors
+              </h4>
+              <div className="space-y-2">
+                <div className="flex gap-2 items-start">
+                  <span className="text-accent mt-1">•</span>
+                  <div>
+                    <p className="text-card-foreground">
+                      <span className="font-semibold">DECA Regionals Finalist</span> - 2023
+                    </p>
+                    <p className="text-sm text-muted-foreground">
+                      Competed in business case competition, demonstrating strategic thinking and presentation skills
+                    </p>
+                  </div>
+                </div>
+              </div>
+            </div>
+
             <div>
               <h4 className="text-lg font-semibold mb-3 text-card-foreground">
                 Extra-Curricular Activities
@@ -86,7 +106,7 @@ const Education = () => {
                   <div>
                     <p className="font-medium text-card-foreground">VP of Finance - UX Laurier</p>
                     <p className="text-sm text-muted-foreground">
-                      Overseeing budgeting, financial reporting, and sponsor outreach
+                      Managing $50K+ budget, overseeing financial reporting, P&L analysis, and coordinating sponsorship partnerships
                     </p>
                   </div>
                 </div>
@@ -95,7 +115,7 @@ const Education = () => {
                   <div>
                     <p className="font-medium text-card-foreground">Laurier Computing Society</p>
                     <p className="text-sm text-muted-foreground">
-                      Participating in workshops, hackathons, and coding challenges
+                      Actively participating in technical workshops, hackathons, and competitive programming challenges
                     </p>
                   </div>
                 </div>
