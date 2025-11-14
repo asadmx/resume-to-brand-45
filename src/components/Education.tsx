@@ -29,19 +29,19 @@ const Education = () => {
               </div>
               <div className="flex items-center gap-2 text-muted-foreground mt-4 md:mt-0">
                 <Calendar className="h-5 w-5" />
-                <span className="font-medium">Expected April 2026</span>
+                <span className="font-medium">Expected May 2027</span>
               </div>
             </div>
 
-            <div className="mb-6">
-              <div className="flex items-center gap-2 mb-3">
+            <div className="mb-8">
+              <div className="flex items-center gap-2 mb-4">
                 <Award className="h-5 w-5 text-accent" />
                 <h4 className="text-lg font-semibold text-card-foreground">Relevant Coursework</h4>
               </div>
-              <div className="grid md:grid-cols-2 gap-4">
+              <div className="grid md:grid-cols-2 gap-6">
                 <div>
-                  <p className="font-medium text-card-foreground mb-2">Computer Science:</p>
-                  <ul className="space-y-1 text-muted-foreground">
+                  <p className="font-medium text-card-foreground mb-3">Computer Science:</p>
+                  <ul className="space-y-2 text-muted-foreground">
                     <li className="flex gap-2">
                       <span className="text-primary">•</span>
                       <span>Artificial Intelligence</span>
@@ -57,8 +57,8 @@ const Education = () => {
                   </ul>
                 </div>
                 <div>
-                  <p className="font-medium text-card-foreground mb-2">Economics:</p>
-                  <ul className="space-y-1 text-muted-foreground">
+                  <p className="font-medium text-card-foreground mb-3">Economics:</p>
+                  <ul className="space-y-2 text-muted-foreground">
                     <li className="flex gap-2">
                       <span className="text-accent">•</span>
                       <span>Microeconomics</span>
@@ -76,12 +76,12 @@ const Education = () => {
               </div>
             </div>
 
-            <div className="mb-6">
-              <h4 className="text-lg font-semibold mb-3 text-card-foreground flex items-center gap-2">
+            <div className="mb-8">
+              <h4 className="text-lg font-semibold mb-4 text-card-foreground flex items-center gap-2">
                 <Award className="h-5 w-5 text-accent" />
                 Achievements & Honors
               </h4>
-              <div className="space-y-2">
+              <div className="space-y-3">
                 <div className="flex gap-2 items-start">
                   <span className="text-accent mt-1">•</span>
                   <div>
@@ -97,10 +97,10 @@ const Education = () => {
             </div>
 
             <div>
-              <h4 className="text-lg font-semibold mb-3 text-card-foreground">
+              <h4 className="text-lg font-semibold mb-4 text-card-foreground">
                 Extra-Curricular Activities
               </h4>
-              <div className="space-y-3">
+              <div className="space-y-4">
                 <div className="flex gap-3">
                   <Badge variant="outline" className="shrink-0">Current</Badge>
                   <div>
