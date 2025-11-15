@@ -5,20 +5,6 @@ import { Briefcase, Calendar } from "lucide-react";
 const Experience = () => {
   const experiences = [
     {
-      role: "VP of Finance",
-      company: "McMaster Technology & Entrepreneurs Society (MTES)",
-      location: "Hamilton, ON",
-      period: "Sept. 2025 - Current",
-      description: [
-        "Lead financial strategy and operations for a student-run technology entrepreneurship organization, managing annual budgets exceeding $50,000 and ensuring fiscal responsibility across multiple initiatives",
-        "Develop and implement comprehensive financial planning frameworks, including budget forecasting, expense tracking, and financial reporting systems to optimize resource allocation",
-        "Collaborate with executive board to secure funding through sponsorships and grants, establishing partnerships with industry leaders and local businesses to support organizational growth",
-        "Oversee financial compliance and risk management, ensuring adherence to university policies and maintaining transparent financial records for stakeholder accountability",
-        "Mentor junior team members on financial literacy and provide strategic guidance on event budgeting and fundraising initiatives",
-      ],
-      tags: ["Financial Planning", "Budget Management", "Leadership", "Stakeholder Relations", "Strategic Planning", "Risk Management"],
-    },
-    {
       role: "Software Engineer Intern",
       company: "SellStatic",
       location: "Toronto, ON",
@@ -31,6 +17,20 @@ const Experience = () => {
         "Led the design and implementation of modular UI/UX templates used by hundreds of customers, creating visually appealing, conversion-optimized layouts that improved usability and supported flexible brand customization",
       ],
       tags: ["PHP", "Next.js", "WordPress", "JavaScript", "HTML", "CSS", "Breakdance", "Git", "GitHub", "REST APIs"],
+    },
+    {
+      role: "VP of Finance",
+      company: "UX Laurier",
+      location: "Hamilton, ON",
+      period: "Sept. 2025 - Current",
+      description: [
+        "Lead financial strategy and operations for a student-run UX organization, overseeing yearly budgets and ensuring fiscal responsibility across multiple initiatives",
+        "Develop and implement comprehensive financial planning frameworks, including budget forecasting, expense tracking, and financial reporting systems to optimize resource allocation",
+        "Collaborate with executive board to secure funding through sponsorships and grants, establishing partnerships with industry leaders and local businesses to support organizational growth",
+        "Oversee financial compliance and risk management, ensuring adherence to university policies and maintaining transparent financial records for stakeholder accountability",
+        "Mentor junior team members on financial literacy and provide strategic guidance on event budgeting and fundraising initiatives",
+      ],
+      tags: ["Financial Planning", "Budget Management", "Leadership", "Stakeholder Relations", "Strategic Planning", "Risk Management"],
     },
     {
       role: "AI Freelance Writer",
