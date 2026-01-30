@@ -19,7 +19,7 @@ const Experience = () => {
       tags: ["Java", "Spring Boot", "MongoDB", "AWS", "REST APIs", "Git", "GitHub"],
     },
     {
-      role: "Game Developer Intern",
+      role: "Software Developer Intern",
       company: "AgentFlow AI",
       location: "Toronto, ON",
       period: "May 2025 - Sept. 2025",

@@ -13,7 +13,7 @@ const Skills = () => {
     },
     {
       category: "Developer Tools",
-      skills: ["Git", "GitHub", "Docker", "Jenkins", "Redis", "VS Code", "Figma"],
+      skills: ["Git", "GitHub", "Docker", "Jenkins", "Power BI", "Tableau", "VS Code", "Figma"],
     },
     {
       category: "Concepts",
